@@ -30,4 +30,3 @@ def get_weather():
     print("Weather:", data["weather"][0]["description"])
 
 get_weather()
-password=129762
